@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="145899763709280"
+    token="2717273350115415293"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="667" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="438" />
+    <task
+        name="verifier"
+        duration="70" />
+
+    <artifact
+        location="C:\Users\Fnu\Downloads\GroupMessenger2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="145899763709280"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Fnu\Downloads\GroupMessenger2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

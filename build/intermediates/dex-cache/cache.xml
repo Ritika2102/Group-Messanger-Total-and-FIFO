@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fnu\Downloads\GroupMessenger2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="70efab8a7ec712b4d9fa62988bdfe6dcfe7a6433">
+        <dex dex="C:\Users\Fnu\Downloads\GroupMessenger2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_df2aa3cee637ee1deb1e58c6decf033ba15de710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fnu\Downloads\GroupMessenger2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e81d916ae433140abe51355b561c163e3c3433c8">
+        <dex dex="C:\Users\Fnu\Downloads\GroupMessenger2\app\build\intermediates\pre-dexed\debug\instant-run_717836e4430e176d505c3622c4ab59044eb36a61.jar" />
+    </item>
+
+</items>
